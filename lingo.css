@@ -1,7 +1,7 @@
-* {
-  background-color: #a4add3;
-  color: white;
-}
+body{
+  background-image: url(Lingo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;}
 
 .mid {
   margin: 0px auto;
@@ -19,7 +19,7 @@
 }
 
 .row div {
-  color: white;
+  color: black;
   font-size: 24px;
   line-height: 80px;
   text-align: center;
@@ -35,5 +35,5 @@
   width: 465px;
   height: 40px;
   font-size: 25px;
-  color: white;
+  color: black;
 }
